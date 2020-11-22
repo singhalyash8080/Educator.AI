@@ -13,4 +13,4 @@ And many more packages to make this project happen.
 
 ### Workflow Diagram
 
-![Workflow Image](https://raw.githubusercontent.com/singhalyash8080/Educator.ai-vitHack/master/hack-screenshots/Worflow.png)
+![Workflow Image](https://raw.githubusercontent.com/sanket9918/wwphacks/main/hack-screenshots/Worflow.png)
